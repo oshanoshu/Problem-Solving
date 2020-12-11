@@ -1,0 +1,12 @@
+E B 400
+G null 10
+B A 100
+F B 600
+D A 20
+A null 20
+C A 250
+H G 20 
+Z X 30
+X A 80
+U V 10
+V G 10
